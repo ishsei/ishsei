@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @ishsei
-- 👀 I’m interested in ur mom
-- 🌱 I’m currently learning ur mom
-- 💞️ I’m looking to collaborate on ur mom
-- 📫 How to reach me ur mom
 
 <!---
 ishsei/ishsei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
